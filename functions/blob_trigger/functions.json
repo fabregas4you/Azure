@@ -1,0 +1,12 @@
+{
+  "bindings": [
+    {
+      "name": "myBlob",
+      "type": "blobTrigger",
+      "direction": "in",
+      "path": "gyozarwp-logs/{name}",
+      "connection": "efaultEndpointsProtocol=https;function88dbd00b8cec;AccountKey=uBt8DjtzQg6s0jk6T+EWbbNym1ocYAIVBTNWgRoNOqp8Qmwso+ZT3JCBscJ+9xJx7PiL59b0sob7jXJIzZPRKQ=="
+    }
+  ],
+  "disabled": false
+}
